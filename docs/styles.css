@@ -58,7 +58,7 @@ blockquote {
     font-style: italic;
 }
 
-footer /*direitos reservados */ { 
+/* footer /*direitos reservados */ { 
     background: #000a42;
     color: #fff;
     text-align: center;
@@ -66,4 +66,4 @@ footer /*direitos reservados */ {
     position: fixed;
     width: 100%;
     bottom: 0;
-}
+} */
